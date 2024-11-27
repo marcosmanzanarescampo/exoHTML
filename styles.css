@@ -1,14 +1,14 @@
-body{
+.body{
     background-color: black;
     color: white;
     font-family: cursive;
     font-size: 10px;
 }
 
-table, th, td{
+.table, th, td{
     border: 1px solid green;
 }
 
-a{
+.a{
     color: white;
 }
